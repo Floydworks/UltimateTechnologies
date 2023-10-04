@@ -1,2 +1,2 @@
 # UltimateTechnologies
-Ultimate Technologies take home
+Analyzing user data, time-series, and predictive model.
